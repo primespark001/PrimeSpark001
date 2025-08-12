@@ -1,6 +1,10 @@
 # Prime Spark
 
-## 👋 Hi, I'm Favour Chinedu Munachimso
+## 👋 Hi, I'm Favour
+
+### My fullname: Chinedu Favour Munachimso
+
+---
 
 I'm a passionate student of Electrical and Electronics Engineering at the Federal University of Technology Minna, Nigeria. I love solving problems with code, building useful tools, and exploring the world of technology-from web development and game design to video editing and graphics.
 
@@ -8,16 +12,17 @@ I'm a passionate student of Electrical and Electronics Engineering at the Federa
 
 ## 🛠️ Tech Stack
 
-- **Languages:** JavaScript, Python, HTML, CSS, TypeScript
-- **Web Development:** React, Node.js (learning), Tailwind CSS
+- **Languages:** JavaScript, Python, HTML, CSS, TypeScript, Tailwind CSS
+- **Front End:** React, Vue, Django, Tailwind CSS
+- **Back End:** Node.js, Express.js, Next.js, Python
+- **App Dev:** Python, Flutter
 - **Tools & IDEs:** VS Code, Git & GitHub, PyCharm, Figma
-- **Design:** Photoshop, Illustrator, Canva, CorelDRAW, Photopea,
+- **Design:** Photoshop, Illustrator, Canva, CorelDRAW, Photopea, Inkscape
 
 ---
 
 ## 📚 What I'm Currently Learning
 
-- Full-stack development (MERN Stack)
 - Solidity and Ethereum for Web3
 - Block Chain Development
 - Python for app development
