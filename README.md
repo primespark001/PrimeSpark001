@@ -3,7 +3,7 @@
 🚀 Full-Stack Developer | 🎨 Creative Designer | ⚡ Tech Enthusiast  
 
 I’m a **Full-Stack Developer** passionate about building scalable backend systems and beautiful user experiences.  
-I also run **Prime Spark**, where I work on projects involving **web design, graphics, and video editing**.  
+I also run **Prime Spark**, where I work on projects involving **full stack web development, graphics, and video editing**.  
 
 ---
 
@@ -89,25 +89,6 @@ Stay tuned as I keep building and sharing exciting full-stack projects!
 </tr>
 </table>  
 
-
----
-
-### 🚀 Featured Projects  
-
-<p align="center">
-  <a href="https://to-do-list-five.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/To--Do%20List%20App-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://contact-book-web-app.onrender.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Contact%20Book%20Web%20App-4CAF50?style=for-the-badge&logo=node.js&logoColor=white" />
-  </a>
-  <a href="https://prime-spark-portfolio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio%20Website-1E90FF?style=for-the-badge&logo=react&logoColor=white" />
-  </a>
-  <a href="https://github.com/primespark001/Weather-App" target="_blank">
-    <img src="https://img.shields.io/badge/Weather%20App-FF9800?style=for-the-badge&logo=openweathermap&logoColor=white" />
-  </a>
-</p>
 ---
 
 ### 📊 GitHub Stats
