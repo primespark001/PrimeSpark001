@@ -56,7 +56,7 @@ I also run **Prime Spark**, where I work on projects involving **full stack web 
 A simple **web application** for managing contacts, built with **Node.js & Express**.  
 <br>  
 <a href="https://contact-book-web-app.onrender.com/"><img src="https://img.shields.io/badge/Live%20Demo-1DA1F2?style=for-the-badge&logo=heroku&logoColor=white"/></a>  
-<a href="https://github.com/primespark001/Contact-Book-Web-App"><img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>  
+<a href="https://github.com/primespark001/Contact-Book-Web-App.git"><img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>  
 
 </td>
 <td align="center" width="50%">
@@ -65,7 +65,7 @@ A simple **web application** for managing contacts, built with **Node.js & Expre
 A lightweight **to-do list app** to manage daily tasks, built with **JavaScript & React**.  
 <br>  
 <a href="https://to-do-list-web-app-five.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-43B02A?style=for-the-badge&logo=vercel&logoColor=white"/></a>  
-<a href="#"><img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>  
+<a href="https://github.com/primespark001/To-Do-List-Web-App.git"><img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>  
 
 </td>
 </tr>
