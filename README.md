@@ -61,7 +61,7 @@ A simple **web application** for managing contacts, built with **Node.js & Expre
 </td>
 <td align="center" width="50%">
   
-### 📝 To-Do List App  
+### 📝 To-Do List Web App  
 A lightweight **to-do list app** to manage daily tasks, built with **JavaScript & React**.  
 <br>  
 <a href="https://to-do-list-web-app-five.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-43B02A?style=for-the-badge&logo=vercel&logoColor=white"/></a>  
