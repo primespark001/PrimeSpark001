@@ -1,9 +1,9 @@
 # Hi there 👋, I'm Favour Chinedu Munachimso  
 
-🚀 Full-Stack Developer | 🎨 Creative Designer | ⚡ Tech Enthusiast  
+🚀 Full-Stack Developer | 🎨 Brand Designer | ⚡ Tech Enthusiast  
 
 I’m a **Full-Stack Developer** passionate about building scalable backend systems and beautiful user experiences.  
-I also run **Prime Spark**, where I work on projects involving **full stack web development, graphics, and video editing**.  
+I also run **Prime Spark**, where I work on projects involving **full stack web development, logo & branding, graphics design, etc**.  
 
 ---
 
