@@ -1,4 +1,5 @@
 # Hi there 👋, I'm Favour Chinedu Munachimso  
+# My current main account is ![Munachi](https://github.com/munachi-prime)
 
 🚀 Full-Stack Developer | 🎨 Brand Designer | ⚡ Tech Enthusiast  
 
